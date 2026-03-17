@@ -24,6 +24,8 @@ Time: O(nlogn)
 Space: O(n)
 '''
 
+from typing import List
+
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         # sort by start value
