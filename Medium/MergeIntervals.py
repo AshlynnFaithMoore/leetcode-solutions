@@ -19,7 +19,7 @@ Input: intervals = [[4,7],[1,4]]
 Output: [[1,7]]
 Explanation: Intervals [1,4] and [4,7] are considered overlapping.
 
-Logic: 
+Logic: two pointers kinda
 Time: O(nlogn)
 Space: O(n)
 '''
